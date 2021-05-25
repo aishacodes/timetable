@@ -1,5 +1,11 @@
 import "./App.css";
 
+// - subjects
+// subject unit - priority
+// 1unit -lowest priority, 3 units- highest priority
+// units determine hoe frequestly the subject will appear on the table
+// lunch time
+
 function App() {
   const subjects = [
     {
